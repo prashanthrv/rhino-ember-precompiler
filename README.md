@@ -26,15 +26,15 @@ Usage
 java -jar <rhino.jar> rhino-ember-compiler.js --handlebarJs <handlebars Js path> --emberJs <Ember Js path> --jqueryJs <Jquery Js path> --templatesDir <handlebar templates directory> --output <output Js file> --envJs <EnvJs files list[env1.js~env2.js~...]> --helperRegistryFiles <Helper1.js~Helper2.js~...>
 ```
 **Arguments**
-Prameter             | Value
-------------         | ---
-handlebarJs          | Path to Handlebar JS
-emberJs              | Path to Ember JS
-jqueryJs             | Path to Jquery JS
-templatesDir         | Templates directory
-output               | Output file path
-envJs                | List of browser environment JS (seperated by ~)
-helperRegistryFiles  | List of custom Handlebar helper files (seperated by ~)
+| Prameter            | Value                                                  |
+|---------------------|--------------------------------------------------------|
+| handlebarJs         | Path to Handlebar JS                                   |
+| emberJs             | Path to Ember JS                                       |
+| jqueryJs            | Path to Jquery JS                                      |
+| templatesDir        | Templates directory                                    |
+| output              | Output file path                                       |
+| envJs               | List of browser environment JS (seperated by ~)        |
+| helperRegistryFiles | List of custom Handlebar helper files (seperated by ~) |
 
 License
 ---------
