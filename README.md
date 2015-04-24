@@ -40,6 +40,7 @@ java -jar <rhino.jar> rhino-ember-compiler.js --handlebarJs <handlebars Js path>
 License
 ---------
 rhino-ember-precompiler is covered by the MIT License.
+
 Copyright (C) 2015 ~ [Prashanth Rajasekar][3] ~ [prashanth@arcenix.com][4]
 
   [1]: http://www.envjs.com/
